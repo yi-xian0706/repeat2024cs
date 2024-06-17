@@ -1,1 +1,7 @@
-# repeat2024cs
+GitHub Pages Exercise
+===========
+
+Involves
+ * git
+ * GitHub
+ * SSH
